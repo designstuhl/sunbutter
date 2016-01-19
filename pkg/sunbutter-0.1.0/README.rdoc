@@ -1,1 +1,5 @@
-Some documentation about Sunbutter
+This gem is not yet ready for primetime.
+
+If you have stumbled across it, please check back later.
+
+Thanks for your patience.
